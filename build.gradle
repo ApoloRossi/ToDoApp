@@ -42,6 +42,7 @@ ext {
     cardVersion = '1.0.0'
     espressoVersion = '3.4.0'
     fragmentKtxVersion = '1.4.0'
+    fragmentVersion = '1.4.1'
     junitVersion = '4.13.2'
     roboletricVersion = '4.6'
     hamcrestVersion = '1.3'
